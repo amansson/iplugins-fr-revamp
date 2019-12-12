@@ -1,0 +1,10 @@
+{
+    "filesToLoad": {
+       "css": [],
+        "js": {
+            "sync": [],
+            "async": ["main.js"],
+            "defer": []
+        }
+    }
+}
